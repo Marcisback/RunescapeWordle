@@ -286,7 +286,6 @@ button:disabled {
   image-rendering: pixelated;
   border-radius: 6px;
   background: transparent !important;
-  mix-blend-mode: multiply;
 }
 
 .result-details p {

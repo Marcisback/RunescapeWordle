@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OSRS data files
+items-complete.json
+
+# Virtual env
+venv/
+.env/
