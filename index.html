@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OSRS Item Guess</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game-wrapper">
+    <header class="game-header">
+      <h1>OSRS Item Guess</h1>
+      <p class="subtitle">Guess the Old School RuneScape item in 6 tries.</p>
+    </header>
+
+    <section id="hint-panel" class="hint-panel">
+      <h2>Hints</h2>
+      <div class="hint-grid">
+        <div class="hint">
+          <span class="hint-label">Slot</span>
+          <span id="hint-slot" class="hint-value">?</span>
+        </div>
+        <div class="hint">
+          <span class="hint-label">GE Price</span>
+          <span id="hint-price" class="hint-value">?</span>
+        </div>
+        <div class="hint">
+          <span class="hint-label">Release Date</span>
+          <span id="hint-release" class="hint-value">?</span>
+        </div>
+      </div>
+      <p id="letters-info" class="letters-info"></p>
+    </section>
+
+    <main>
+      <div id="grid" class="grid"></div>
+
+      <form id="guess-form" class="guess-form" autocomplete="off">
+        <label for="guess-input" class="guess-label">
+          Type an item name (exact letters, ignore case).
+        </label>
+
+        <!-- Wrapper so the suggestions dropdown can be positioned under the input -->
+        <div class="guess-input-wrapper">
+          <div class="guess-input-row">
+            <input
+              id="guess-input"
+              name="guess"
+              type="text"
+              spellcheck="false"
+              autocomplete="off"
+              placeholder="e.g. Abyssal whip"
+            />
+            <button type="submit">Guess</button>
+          </div>
+          <!-- Autocomplete dropdown -->
+          <div id="suggestions" class="suggestions hidden"></div>
+        </div>
+
+        <p id="message" class="message"></p>
+      </form>
+    </main>
+
+    <section id="result-panel" class="result-panel hidden">
+      <h2 id="result-title"></h2>
+      <div class="result-content">
+        <img id="result-icon" class="result-icon" alt="Item icon" />
+        <div class="result-details">
+          <p><strong>Item:</strong> <span id="result-name"></span></p>
+          <p><strong>Slot:</strong> <span id="result-slot"></span></p>
+          <p><strong>GE Price:</strong> <span id="result-ge"></span></p>
+          <p><strong>Release Date:</strong> <span id="result-release"></span></p>
+        </div>
+      </div>
+      <button id="play-again" class="play-again">Play Again</button>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

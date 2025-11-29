@@ -1,0 +1,6230 @@
+[
+  {
+    "id": 2,
+    "name": "Cannonball",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2003-05-27",
+    "ge_price": 229
+  },
+  {
+    "id": 538,
+    "name": "Druid's robe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/538.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2002-02-27",
+    "ge_price": 9255
+  },
+  {
+    "id": 542,
+    "name": "Monk's robe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/542.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-07-12",
+    "ge_price": 745
+  },
+  {
+    "id": 544,
+    "name": "Monk's robe top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/544.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-07-12",
+    "ge_price": 777
+  },
+  {
+    "id": 1007,
+    "name": "Red cape",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1007.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 94
+  },
+  {
+    "id": 1035,
+    "name": "Zamorak monk top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1035.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2002-05-28",
+    "ge_price": 1045
+  },
+  {
+    "id": 1038,
+    "name": "Red partyhat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1038.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-12-24",
+    "ge_price": 8420
+  },
+  {
+    "id": 1044,
+    "name": "Green partyhat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1044.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-12-24",
+    "ge_price": 13991
+  },
+  {
+    "id": 1046,
+    "name": "Purple partyhat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1046.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-12-24",
+    "ge_price": 9081
+  },
+  {
+    "id": 1048,
+    "name": "White partyhat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1048.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-12-24",
+    "ge_price": 34000
+  },
+  {
+    "id": 1059,
+    "name": "Leather gloves",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1059.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 10
+  },
+  {
+    "id": 1061,
+    "name": "Leather boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1061.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 32
+  },
+  {
+    "id": 1063,
+    "name": "Leather vambraces",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1063.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": 3
+  },
+  {
+    "id": 1065,
+    "name": "Green d'hide vambraces",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1065.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": 1441
+  },
+  {
+    "id": 1077,
+    "name": "Black platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1077.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-02-13",
+    "ge_price": 2734
+  },
+  {
+    "id": 1079,
+    "name": "Rune platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1079.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-07-26",
+    "ge_price": 37881
+  },
+  {
+    "id": 1097,
+    "name": "Studded chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1097.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": 330
+  },
+  {
+    "id": 1099,
+    "name": "Green d'hide chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1099.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": 2148
+  },
+  {
+    "id": 1101,
+    "name": "Iron chainbody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1101.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 88
+  },
+  {
+    "id": 1107,
+    "name": "Black chainbody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1107.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-12-08",
+    "ge_price": 2144
+  },
+  {
+    "id": 1115,
+    "name": "Iron platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1115.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 66
+  },
+  {
+    "id": 1125,
+    "name": "Black platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1125.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 3018
+  },
+  {
+    "id": 1127,
+    "name": "Rune platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1127.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-09-23",
+    "ge_price": 39494
+  },
+  {
+    "id": 1137,
+    "name": "Iron med helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1137.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 18
+  },
+  {
+    "id": 1147,
+    "name": "Rune med helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1147.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-07-26",
+    "ge_price": 11418
+  },
+  {
+    "id": 1149,
+    "name": "Dragon med helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1149.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2002-09-24",
+    "ge_price": 58663
+  },
+  {
+    "id": 1153,
+    "name": "Iron full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1153.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 97
+  },
+  {
+    "id": 1163,
+    "name": "Rune full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1163.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-08-13",
+    "ge_price": 20620
+  },
+  {
+    "id": 1165,
+    "name": "Black full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1165.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-02-13",
+    "ge_price": 580
+  },
+  {
+    "id": 1169,
+    "name": "Coif",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1169.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": 11
+  },
+  {
+    "id": 1175,
+    "name": "Iron sq shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1175.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 35
+  },
+  {
+    "id": 1191,
+    "name": "Iron kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1191.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 54
+  },
+  {
+    "id": 1195,
+    "name": "Black kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1195.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-12-08",
+    "ge_price": 2987
+  },
+  {
+    "id": 1201,
+    "name": "Rune kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1201.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-08-13",
+    "ge_price": 32163
+  },
+  {
+    "id": 1303,
+    "name": "Rune longsword",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1303.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-07-26",
+    "ge_price": 18946
+  },
+  {
+    "id": 1333,
+    "name": "Rune scimitar",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1333.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-08-13",
+    "ge_price": 15379
+  },
+  {
+    "id": 1373,
+    "name": "Rune battleaxe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1373.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-08-13",
+    "ge_price": 24354
+  },
+  {
+    "id": 1377,
+    "name": "Dragon battleaxe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1377.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2002-02-27",
+    "ge_price": 119847
+  },
+  {
+    "id": 1379,
+    "name": "Staff",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1379.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 275
+  },
+  {
+    "id": 1387,
+    "name": "Staff of fire",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1387.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-01-04",
+    "ge_price": 1538
+  },
+  {
+    "id": 1712,
+    "name": "Amulet of glory",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1712.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": 12140
+  },
+  {
+    "id": 1725,
+    "name": "Amulet of strength",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1725.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-05-24",
+    "ge_price": 1365
+  },
+  {
+    "id": 1727,
+    "name": "Amulet of magic",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1727.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-05-24",
+    "ge_price": 393
+  },
+  {
+    "id": 1729,
+    "name": "Amulet of defence",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1729.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-05-24",
+    "ge_price": 579
+  },
+  {
+    "id": 1731,
+    "name": "Amulet of power",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/1731.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2001-05-24",
+    "ge_price": 2399
+  },
+  {
+    "id": 2491,
+    "name": "Black d'hide vambraces",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2491.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": 2163
+  },
+  {
+    "id": 2497,
+    "name": "Black d'hide chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2497.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": 4166
+  },
+  {
+    "id": 2503,
+    "name": "Black d'hide body",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2503.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": 7549
+  },
+  {
+    "id": 2577,
+    "name": "Ranger boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2577.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 37037403
+  },
+  {
+    "id": 2579,
+    "name": "Wizard boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2579.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 209177
+  },
+  {
+    "id": 2581,
+    "name": "Robin hood hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2581.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 1197123
+  },
+  {
+    "id": 2583,
+    "name": "Black platebody (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2583.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 15086
+  },
+  {
+    "id": 2585,
+    "name": "Black platelegs (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2585.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 7625
+  },
+  {
+    "id": 2587,
+    "name": "Black full helm (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2587.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 500000
+  },
+  {
+    "id": 2589,
+    "name": "Black kiteshield (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2589.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 49138
+  },
+  {
+    "id": 2591,
+    "name": "Black platebody (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2591.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 139000
+  },
+  {
+    "id": 2593,
+    "name": "Black platelegs (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2593.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 26255
+  },
+  {
+    "id": 2595,
+    "name": "Black full helm (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2595.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 81915
+  },
+  {
+    "id": 2597,
+    "name": "Black kiteshield (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2597.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 120163
+  },
+  {
+    "id": 2599,
+    "name": "Adamant platebody (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2599.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 9591
+  },
+  {
+    "id": 2601,
+    "name": "Adamant platelegs (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2601.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 3723
+  },
+  {
+    "id": 2603,
+    "name": "Adamant kiteshield (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2603.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 8207
+  },
+  {
+    "id": 2605,
+    "name": "Adamant full helm (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2605.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 6499
+  },
+  {
+    "id": 2607,
+    "name": "Adamant platebody (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2607.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 11255
+  },
+  {
+    "id": 2609,
+    "name": "Adamant platelegs (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2609.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 3878
+  },
+  {
+    "id": 2611,
+    "name": "Adamant kiteshield (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2611.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 8473
+  },
+  {
+    "id": 2613,
+    "name": "Adamant full helm (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2613.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 8988
+  },
+  {
+    "id": 2615,
+    "name": "Rune platebody (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2615.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 69558
+  },
+  {
+    "id": 2617,
+    "name": "Rune platelegs (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2617.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 52600
+  },
+  {
+    "id": 2619,
+    "name": "Rune full helm (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2619.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 84697
+  },
+  {
+    "id": 2621,
+    "name": "Rune kiteshield (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2621.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 225000
+  },
+  {
+    "id": 2623,
+    "name": "Rune platebody (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2623.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 41761
+  },
+  {
+    "id": 2625,
+    "name": "Rune platelegs (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2625.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 43945
+  },
+  {
+    "id": 2627,
+    "name": "Rune full helm (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2627.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 49219
+  },
+  {
+    "id": 2629,
+    "name": "Rune kiteshield (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2629.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 70385
+  },
+  {
+    "id": 2631,
+    "name": "Highwayman mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2631.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 199999
+  },
+  {
+    "id": 2633,
+    "name": "Blue beret",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2633.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 24986
+  },
+  {
+    "id": 2635,
+    "name": "Black beret",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2635.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 150000
+  },
+  {
+    "id": 2637,
+    "name": "White beret",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2637.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 27849
+  },
+  {
+    "id": 2639,
+    "name": "Tan cavalier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2639.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 45000
+  },
+  {
+    "id": 2641,
+    "name": "Dark cavalier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2641.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 7840
+  },
+  {
+    "id": 2643,
+    "name": "Black cavalier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2643.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 81000
+  },
+  {
+    "id": 2645,
+    "name": "Red headband",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2645.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 5000
+  },
+  {
+    "id": 2647,
+    "name": "Black headband",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2647.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 2286
+  },
+  {
+    "id": 2649,
+    "name": "Brown headband",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2649.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 13300
+  },
+  {
+    "id": 2651,
+    "name": "Pirate's hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2651.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 25000
+  },
+  {
+    "id": 2653,
+    "name": "Zamorak platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2653.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 41784
+  },
+  {
+    "id": 2655,
+    "name": "Zamorak platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2655.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 49000
+  },
+  {
+    "id": 2657,
+    "name": "Zamorak full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2657.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 691738
+  },
+  {
+    "id": 2659,
+    "name": "Zamorak kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2659.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 65000
+  },
+  {
+    "id": 2661,
+    "name": "Saradomin platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2661.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 68250
+  },
+  {
+    "id": 2663,
+    "name": "Saradomin platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2663.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 50661
+  },
+  {
+    "id": 2665,
+    "name": "Saradomin full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2665.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 64955
+  },
+  {
+    "id": 2667,
+    "name": "Saradomin kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2667.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 136000
+  },
+  {
+    "id": 2669,
+    "name": "Guthix platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2669.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 50000
+  },
+  {
+    "id": 2671,
+    "name": "Guthix platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2671.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 41600
+  },
+  {
+    "id": 2673,
+    "name": "Guthix full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2673.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 43846
+  },
+  {
+    "id": 2675,
+    "name": "Guthix kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/2675.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-05-05",
+    "ge_price": 44447
+  },
+  {
+    "id": 3096,
+    "name": "Iron claws",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3096.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-08-09",
+    "ge_price": 75
+  },
+  {
+    "id": 3122,
+    "name": "Granite shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3122.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-08-09",
+    "ge_price": 35000
+  },
+  {
+    "id": 3472,
+    "name": "Black plateskirt (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3472.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 1942
+  },
+  {
+    "id": 3473,
+    "name": "Black plateskirt (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3473.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 3669
+  },
+  {
+    "id": 3474,
+    "name": "Adamant plateskirt (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3474.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 3495
+  },
+  {
+    "id": 3475,
+    "name": "Adamant plateskirt (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3475.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 6499
+  },
+  {
+    "id": 3476,
+    "name": "Rune plateskirt (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3476.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 40951
+  },
+  {
+    "id": 3477,
+    "name": "Rune plateskirt (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3477.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 45994
+  },
+  {
+    "id": 3478,
+    "name": "Zamorak plateskirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3478.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 44499
+  },
+  {
+    "id": 3479,
+    "name": "Saradomin plateskirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3479.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 40000
+  },
+  {
+    "id": 3480,
+    "name": "Guthix plateskirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3480.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 40634
+  },
+  {
+    "id": 3481,
+    "name": "Gilded platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3481.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 10007230
+  },
+  {
+    "id": 3483,
+    "name": "Gilded platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3483.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 9606000
+  },
+  {
+    "id": 3485,
+    "name": "Gilded plateskirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3485.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 1510000
+  },
+  {
+    "id": 3486,
+    "name": "Gilded full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3486.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 8504466
+  },
+  {
+    "id": 3488,
+    "name": "Gilded kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3488.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-10-26",
+    "ge_price": 9860428
+  },
+  {
+    "id": 3751,
+    "name": "Berserker helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3751.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-02",
+    "ge_price": 45745
+  },
+  {
+    "id": 3753,
+    "name": "Warrior helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3753.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-02",
+    "ge_price": 39900
+  },
+  {
+    "id": 3827,
+    "name": "Saradomin page 1",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3827.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 1915
+  },
+  {
+    "id": 3828,
+    "name": "Saradomin page 2",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3828.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 1709
+  },
+  {
+    "id": 3829,
+    "name": "Saradomin page 3",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3829.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 1828
+  },
+  {
+    "id": 3830,
+    "name": "Saradomin page 4",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3830.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 1796
+  },
+  {
+    "id": 3831,
+    "name": "Zamorak page 1",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3831.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 9838
+  },
+  {
+    "id": 3832,
+    "name": "Zamorak page 2",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3832.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 6202
+  },
+  {
+    "id": 3833,
+    "name": "Zamorak page 3",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3833.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 8950
+  },
+  {
+    "id": 3834,
+    "name": "Zamorak page 4",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3834.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 5600
+  },
+  {
+    "id": 3835,
+    "name": "Guthix page 1",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3835.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 4099
+  },
+  {
+    "id": 3836,
+    "name": "Guthix page 2",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3836.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 10000
+  },
+  {
+    "id": 3837,
+    "name": "Guthix page 3",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3837.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 2043
+  },
+  {
+    "id": 3838,
+    "name": "Guthix page 4",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/3838.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-17",
+    "ge_price": 2032
+  },
+  {
+    "id": 4087,
+    "name": "Dragon platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/4087.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-01-17",
+    "ge_price": 161211
+  },
+  {
+    "id": 4151,
+    "name": "Abyssal whip",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/4151.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-02-15",
+    "ge_price": 1309299
+  },
+  {
+    "id": 4716,
+    "name": "Dharok's helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/4716.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-05-09",
+    "ge_price": 411288
+  },
+  {
+    "id": 4724,
+    "name": "Guthan's helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/4724.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-05-09",
+    "ge_price": 109980
+  },
+  {
+    "id": 4745,
+    "name": "Torag's helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/4745.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-05-09",
+    "ge_price": 112062
+  },
+  {
+    "id": 4753,
+    "name": "Verac's helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/4753.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-05-09",
+    "ge_price": 119959
+  },
+  {
+    "id": 6326,
+    "name": "Snakeskin bandana",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/6326.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-08-09",
+    "ge_price": 356
+  },
+  {
+    "id": 6328,
+    "name": "Snakeskin boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/6328.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-08-09",
+    "ge_price": 309
+  },
+  {
+    "id": 6420,
+    "name": "Maple blackjack(d)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/6420.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-08-15",
+    "ge_price": 951
+  },
+  {
+    "id": 6522,
+    "name": "Toktz-xil-ul",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/6522.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-09-19",
+    "ge_price": 2618
+  },
+  {
+    "id": 6568,
+    "name": "Obsidian cape",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/6568.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-10-04",
+    "ge_price": 677564
+  },
+  {
+    "id": 6585,
+    "name": "Amulet of fury",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/6585.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-10-04",
+    "ge_price": 2236721
+  },
+  {
+    "id": 6735,
+    "name": "Warrior ring",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/6735.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-11-07",
+    "ge_price": 47562
+  },
+  {
+    "id": 6737,
+    "name": "Berserker ring",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/6737.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-11-07",
+    "ge_price": 3100000
+  },
+  {
+    "id": 6914,
+    "name": "Master wand",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/6914.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-01-04",
+    "ge_price": 1868608
+  },
+  {
+    "id": 7319,
+    "name": "Red boater",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7319.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 6944
+  },
+  {
+    "id": 7321,
+    "name": "Orange boater",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7321.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 1800
+  },
+  {
+    "id": 7323,
+    "name": "Green boater",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7323.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 5436
+  },
+  {
+    "id": 7325,
+    "name": "Blue boater",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7325.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 2576
+  },
+  {
+    "id": 7327,
+    "name": "Black boater",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7327.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 6619
+  },
+  {
+    "id": 7332,
+    "name": "Black shield (h1)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7332.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 56323
+  },
+  {
+    "id": 7334,
+    "name": "Adamant shield (h1)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7334.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 6000
+  },
+  {
+    "id": 7336,
+    "name": "Rune shield (h1)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7336.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 64175
+  },
+  {
+    "id": 7338,
+    "name": "Black shield (h2)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7338.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 989000
+  },
+  {
+    "id": 7340,
+    "name": "Adamant shield (h2)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7340.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 2582
+  },
+  {
+    "id": 7342,
+    "name": "Rune shield (h2)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7342.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 34130
+  },
+  {
+    "id": 7344,
+    "name": "Black shield (h3)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7344.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 2309
+  },
+  {
+    "id": 7346,
+    "name": "Adamant shield (h3)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7346.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 2698
+  },
+  {
+    "id": 7348,
+    "name": "Rune shield (h3)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7348.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 28110
+  },
+  {
+    "id": 7350,
+    "name": "Black shield (h4)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7350.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 4000
+  },
+  {
+    "id": 7352,
+    "name": "Adamant shield (h4)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7352.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 2795
+  },
+  {
+    "id": 7354,
+    "name": "Rune shield (h4)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7354.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 34477
+  },
+  {
+    "id": 7356,
+    "name": "Black shield (h5)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7356.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 80000
+  },
+  {
+    "id": 7358,
+    "name": "Adamant shield (h5)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7358.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 989000
+  },
+  {
+    "id": 7360,
+    "name": "Rune shield (h5)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7360.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 38307
+  },
+  {
+    "id": 7362,
+    "name": "Studded body (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7362.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 19480
+  },
+  {
+    "id": 7364,
+    "name": "Studded body (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7364.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 55555
+  },
+  {
+    "id": 7366,
+    "name": "Studded chaps (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7366.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 6816
+  },
+  {
+    "id": 7368,
+    "name": "Studded chaps (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7368.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 8000
+  },
+  {
+    "id": 7370,
+    "name": "Green d'hide body (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7370.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 13000
+  },
+  {
+    "id": 7372,
+    "name": "Green d'hide body (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7372.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 7886
+  },
+  {
+    "id": 7374,
+    "name": "Blue d'hide body (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7374.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 6709
+  },
+  {
+    "id": 7376,
+    "name": "Blue d'hide body (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7376.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 5043
+  },
+  {
+    "id": 7378,
+    "name": "Green d'hide chaps (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7378.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 53283
+  },
+  {
+    "id": 7380,
+    "name": "Green d'hide chaps (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7380.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 16523
+  },
+  {
+    "id": 7382,
+    "name": "Blue d'hide chaps (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7382.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 4350
+  },
+  {
+    "id": 7384,
+    "name": "Blue d'hide chaps (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7384.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 2676
+  },
+  {
+    "id": 7386,
+    "name": "Blue skirt (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7386.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 47874
+  },
+  {
+    "id": 7388,
+    "name": "Blue skirt (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7388.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 51215
+  },
+  {
+    "id": 7390,
+    "name": "Blue wizard robe (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7390.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 143931
+  },
+  {
+    "id": 7392,
+    "name": "Blue wizard robe (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7392.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 72998
+  },
+  {
+    "id": 7394,
+    "name": "Blue wizard hat (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7394.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 146445
+  },
+  {
+    "id": 7396,
+    "name": "Blue wizard hat (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7396.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 47226
+  },
+  {
+    "id": 7398,
+    "name": "Enchanted robe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7398.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 59173
+  },
+  {
+    "id": 7399,
+    "name": "Enchanted top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7399.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 66133
+  },
+  {
+    "id": 7400,
+    "name": "Enchanted hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/7400.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-02-20",
+    "ge_price": 23250
+  },
+  {
+    "id": 9185,
+    "name": "Rune crossbow",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/9185.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-07-31",
+    "ge_price": 9532
+  },
+  {
+    "id": 10286,
+    "name": "Rune helm (h1)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10286.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 74637
+  },
+  {
+    "id": 10288,
+    "name": "Rune helm (h2)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10288.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 22691
+  },
+  {
+    "id": 10290,
+    "name": "Rune helm (h3)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10290.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 23136
+  },
+  {
+    "id": 10292,
+    "name": "Rune helm (h4)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10292.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 21046
+  },
+  {
+    "id": 10294,
+    "name": "Rune helm (h5)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10294.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 20597
+  },
+  {
+    "id": 10296,
+    "name": "Adamant helm (h1)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10296.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 1936
+  },
+  {
+    "id": 10298,
+    "name": "Adamant helm (h2)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10298.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 3500
+  },
+  {
+    "id": 10300,
+    "name": "Adamant helm (h3)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10300.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 1954
+  },
+  {
+    "id": 10302,
+    "name": "Adamant helm (h4)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10302.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 2217
+  },
+  {
+    "id": 10304,
+    "name": "Adamant helm (h5)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10304.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 1959
+  },
+  {
+    "id": 10306,
+    "name": "Black helm (h1)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10306.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 989000
+  },
+  {
+    "id": 10308,
+    "name": "Black helm (h2)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10308.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 4236
+  },
+  {
+    "id": 10310,
+    "name": "Black helm (h3)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10310.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 2600
+  },
+  {
+    "id": 10312,
+    "name": "Black helm (h4)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10312.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 9999
+  },
+  {
+    "id": 10314,
+    "name": "Black helm (h5)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10314.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 3309
+  },
+  {
+    "id": 10316,
+    "name": "Bob's red shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10316.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 15000
+  },
+  {
+    "id": 10318,
+    "name": "Bob's blue shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10318.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 8000
+  },
+  {
+    "id": 10320,
+    "name": "Bob's green shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10320.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 4613
+  },
+  {
+    "id": 10322,
+    "name": "Bob's black shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10322.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 28900
+  },
+  {
+    "id": 10324,
+    "name": "Bob's purple shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10324.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 5762
+  },
+  {
+    "id": 10330,
+    "name": "3rd age range top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10330.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 44285356
+  },
+  {
+    "id": 10332,
+    "name": "3rd age range legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10332.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 22777000
+  },
+  {
+    "id": 10334,
+    "name": "3rd age range coif",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10334.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 17473194
+  },
+  {
+    "id": 10336,
+    "name": "3rd age vambraces",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10336.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 16777776
+  },
+  {
+    "id": 10342,
+    "name": "3rd age mage hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10342.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 26475000
+  },
+  {
+    "id": 10344,
+    "name": "3rd age amulet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10344.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 78974000
+  },
+  {
+    "id": 10346,
+    "name": "3rd age platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10346.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 128912254
+  },
+  {
+    "id": 10348,
+    "name": "3rd age platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10348.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 244832000
+  },
+  {
+    "id": 10350,
+    "name": "3rd age full helmet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10350.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 60000000
+  },
+  {
+    "id": 10352,
+    "name": "3rd age kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10352.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 119897000
+  },
+  {
+    "id": 10362,
+    "name": "Amulet of glory (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10362.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 59059
+  },
+  {
+    "id": 10364,
+    "name": "Strength amulet (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10364.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 26613
+  },
+  {
+    "id": 10366,
+    "name": "Amulet of magic (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10366.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 11233
+  },
+  {
+    "id": 10368,
+    "name": "Zamorak bracers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10368.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 110000
+  },
+  {
+    "id": 10370,
+    "name": "Zamorak d'hide body",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10370.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 161511
+  },
+  {
+    "id": 10372,
+    "name": "Zamorak chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10372.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 295000
+  },
+  {
+    "id": 10374,
+    "name": "Zamorak coif",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10374.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 114980
+  },
+  {
+    "id": 10376,
+    "name": "Guthix bracers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10376.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 21166
+  },
+  {
+    "id": 10378,
+    "name": "Guthix d'hide body",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10378.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 116000
+  },
+  {
+    "id": 10380,
+    "name": "Guthix chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10380.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 222403
+  },
+  {
+    "id": 10382,
+    "name": "Guthix coif",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10382.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 105000
+  },
+  {
+    "id": 10384,
+    "name": "Saradomin bracers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10384.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 34538
+  },
+  {
+    "id": 10386,
+    "name": "Saradomin d'hide body",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10386.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 133555
+  },
+  {
+    "id": 10388,
+    "name": "Saradomin chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10388.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 219119
+  },
+  {
+    "id": 10390,
+    "name": "Saradomin coif",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10390.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 114702
+  },
+  {
+    "id": 10392,
+    "name": "A powdered wig",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10392.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 15000
+  },
+  {
+    "id": 10394,
+    "name": "Flared trousers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10394.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 2555455
+  },
+  {
+    "id": 10396,
+    "name": "Pantaloons",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10396.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 2183
+  },
+  {
+    "id": 10398,
+    "name": "Sleeping cap",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10398.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 7181
+  },
+  {
+    "id": 10400,
+    "name": "Black elegant shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10400.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 15000
+  },
+  {
+    "id": 10402,
+    "name": "Black elegant legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10402.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 20000
+  },
+  {
+    "id": 10404,
+    "name": "Red elegant shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10404.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 14765
+  },
+  {
+    "id": 10406,
+    "name": "Red elegant legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10406.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 90000
+  },
+  {
+    "id": 10408,
+    "name": "Blue elegant shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10408.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 98999
+  },
+  {
+    "id": 10410,
+    "name": "Blue elegant legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10410.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 40000
+  },
+  {
+    "id": 10412,
+    "name": "Green elegant shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10412.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 64000
+  },
+  {
+    "id": 10414,
+    "name": "Green elegant legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10414.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 32000
+  },
+  {
+    "id": 10416,
+    "name": "Purple elegant shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10416.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 3297
+  },
+  {
+    "id": 10418,
+    "name": "Purple elegant legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10418.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 33000
+  },
+  {
+    "id": 10420,
+    "name": "White elegant blouse",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10420.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 21000
+  },
+  {
+    "id": 10422,
+    "name": "White elegant skirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10422.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 5144
+  },
+  {
+    "id": 10424,
+    "name": "Red elegant blouse",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10424.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 195888
+  },
+  {
+    "id": 10426,
+    "name": "Red elegant skirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10426.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 99000
+  },
+  {
+    "id": 10428,
+    "name": "Blue elegant blouse",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10428.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 521021
+  },
+  {
+    "id": 10430,
+    "name": "Blue elegant skirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10430.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 60000
+  },
+  {
+    "id": 10432,
+    "name": "Green elegant blouse",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10432.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 250000
+  },
+  {
+    "id": 10434,
+    "name": "Green elegant skirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10434.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 395000
+  },
+  {
+    "id": 10436,
+    "name": "Purple elegant blouse",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10436.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 5604
+  },
+  {
+    "id": 10438,
+    "name": "Purple elegant skirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10438.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 5022
+  },
+  {
+    "id": 10440,
+    "name": "Saradomin crozier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10440.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 21000
+  },
+  {
+    "id": 10442,
+    "name": "Guthix crozier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10442.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 8000
+  },
+  {
+    "id": 10444,
+    "name": "Zamorak crozier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10444.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 7500
+  },
+  {
+    "id": 10446,
+    "name": "Saradomin cloak",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10446.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 33406
+  },
+  {
+    "id": 10448,
+    "name": "Guthix cloak",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10448.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 44444
+  },
+  {
+    "id": 10450,
+    "name": "Zamorak cloak",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10450.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 64000
+  },
+  {
+    "id": 10452,
+    "name": "Saradomin mitre",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10452.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 14470
+  },
+  {
+    "id": 10454,
+    "name": "Guthix mitre",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10454.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 23002
+  },
+  {
+    "id": 10456,
+    "name": "Zamorak mitre",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10456.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 23794
+  },
+  {
+    "id": 10458,
+    "name": "Saradomin robe top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10458.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 92499
+  },
+  {
+    "id": 10460,
+    "name": "Zamorak robe top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10460.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 85182
+  },
+  {
+    "id": 10462,
+    "name": "Guthix robe top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10462.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 68548
+  },
+  {
+    "id": 10464,
+    "name": "Saradomin robe legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10464.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 91111
+  },
+  {
+    "id": 10466,
+    "name": "Guthix robe legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10466.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 99986
+  },
+  {
+    "id": 10468,
+    "name": "Zamorak robe legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10468.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 48799
+  },
+  {
+    "id": 10470,
+    "name": "Saradomin stole",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10470.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 15000
+  },
+  {
+    "id": 10472,
+    "name": "Guthix stole",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10472.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 3266
+  },
+  {
+    "id": 10474,
+    "name": "Zamorak stole",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10474.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2006-12-05",
+    "ge_price": 200000
+  },
+  {
+    "id": 10828,
+    "name": "Helm of neitiznot",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/10828.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2007-02-06",
+    "ge_price": 51341
+  },
+  {
+    "id": 11126,
+    "name": "Combat bracelet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11126.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2007-04-30",
+    "ge_price": 12325
+  },
+  {
+    "id": 11128,
+    "name": "Berserker necklace",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11128.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2007-04-30",
+    "ge_price": 2176668
+  },
+  {
+    "id": 11133,
+    "name": "Regen bracelet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11133.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2007-04-30",
+    "ge_price": 2235757
+  },
+  {
+    "id": 11785,
+    "name": "Armadyl crossbow",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11785.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2013-10-17",
+    "ge_price": 25668270
+  },
+  {
+    "id": 11791,
+    "name": "Staff of the dead",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11791.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2013-10-17",
+    "ge_price": 8400000
+  },
+  {
+    "id": 11826,
+    "name": "Armadyl helmet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11826.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2013-10-17",
+    "ge_price": 9800000
+  },
+  {
+    "id": 11828,
+    "name": "Armadyl chestplate",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11828.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2013-10-17",
+    "ge_price": 37140877
+  },
+  {
+    "id": 11830,
+    "name": "Armadyl chainskirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11830.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2013-10-17",
+    "ge_price": 27684639
+  },
+  {
+    "id": 11832,
+    "name": "Bandos chestplate",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11832.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2013-10-17",
+    "ge_price": 26000000
+  },
+  {
+    "id": 11834,
+    "name": "Bandos tassets",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11834.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2013-10-17",
+    "ge_price": 16506244
+  },
+  {
+    "id": 11840,
+    "name": "Dragon boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11840.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2013-10-17",
+    "ge_price": 360483
+  },
+  {
+    "id": 11889,
+    "name": "Zamorakian hasta",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/11889.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-01-09",
+    "ge_price": 1659999
+  },
+  {
+    "id": 12002,
+    "name": "Occult necklace",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12002.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-04-10",
+    "ge_price": 511510
+  },
+  {
+    "id": 12193,
+    "name": "Ancient robe top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12193.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 147999
+  },
+  {
+    "id": 12195,
+    "name": "Ancient robe legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12195.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 27727
+  },
+  {
+    "id": 12197,
+    "name": "Ancient cloak",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12197.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 70000
+  },
+  {
+    "id": 12199,
+    "name": "Ancient crozier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12199.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 20000
+  },
+  {
+    "id": 12201,
+    "name": "Ancient stole",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12201.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 9897
+  },
+  {
+    "id": 12203,
+    "name": "Ancient mitre",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12203.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 15747
+  },
+  {
+    "id": 12205,
+    "name": "Bronze platebody (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12205.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 57811
+  },
+  {
+    "id": 12207,
+    "name": "Bronze platelegs (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12207.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 16603
+  },
+  {
+    "id": 12209,
+    "name": "Bronze plateskirt (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12209.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1644
+  },
+  {
+    "id": 12211,
+    "name": "Bronze full helm (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12211.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 60000
+  },
+  {
+    "id": 12213,
+    "name": "Bronze kiteshield (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12213.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 11402
+  },
+  {
+    "id": 12215,
+    "name": "Bronze platebody (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12215.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1201
+  },
+  {
+    "id": 12217,
+    "name": "Bronze platelegs (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12217.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 3500
+  },
+  {
+    "id": 12219,
+    "name": "Bronze plateskirt (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12219.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1179
+  },
+  {
+    "id": 12221,
+    "name": "Bronze full helm (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12221.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 50000
+  },
+  {
+    "id": 12223,
+    "name": "Bronze kiteshield (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12223.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1474
+  },
+  {
+    "id": 12225,
+    "name": "Iron platebody (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12225.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 28847
+  },
+  {
+    "id": 12227,
+    "name": "Iron platelegs (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12227.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 49999
+  },
+  {
+    "id": 12229,
+    "name": "Iron plateskirt (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12229.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2523
+  },
+  {
+    "id": 12231,
+    "name": "Iron full helm (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12231.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 44999
+  },
+  {
+    "id": 12233,
+    "name": "Iron kiteshield (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12233.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 10000
+  },
+  {
+    "id": 12235,
+    "name": "Iron platebody (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12235.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 178100
+  },
+  {
+    "id": 12237,
+    "name": "Iron platelegs (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12237.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 17916
+  },
+  {
+    "id": 12239,
+    "name": "Iron plateskirt (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12239.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 9999
+  },
+  {
+    "id": 12241,
+    "name": "Iron full helm (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12241.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 215068
+  },
+  {
+    "id": 12243,
+    "name": "Iron kiteshield (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12243.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 59331
+  },
+  {
+    "id": 12245,
+    "name": "Beanie",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12245.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2602
+  },
+  {
+    "id": 12247,
+    "name": "Red beret",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12247.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 12339
+  },
+  {
+    "id": 12249,
+    "name": "Imp mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12249.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 6000
+  },
+  {
+    "id": 12251,
+    "name": "Goblin mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12251.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 47738
+  },
+  {
+    "id": 12253,
+    "name": "Armadyl robe top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12253.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 179391
+  },
+  {
+    "id": 12255,
+    "name": "Armadyl robe legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12255.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 46312
+  },
+  {
+    "id": 12257,
+    "name": "Armadyl stole",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12257.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2790
+  },
+  {
+    "id": 12259,
+    "name": "Armadyl mitre",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12259.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 21376
+  },
+  {
+    "id": 12261,
+    "name": "Armadyl cloak",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12261.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 55000
+  },
+  {
+    "id": 12263,
+    "name": "Armadyl crozier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12263.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 25000
+  },
+  {
+    "id": 12265,
+    "name": "Bandos robe top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12265.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 80487
+  },
+  {
+    "id": 12267,
+    "name": "Bandos robe legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12267.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 32644
+  },
+  {
+    "id": 12269,
+    "name": "Bandos stole",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12269.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 7490
+  },
+  {
+    "id": 12271,
+    "name": "Bandos mitre",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12271.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 19999
+  },
+  {
+    "id": 12273,
+    "name": "Bandos cloak",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12273.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 125000
+  },
+  {
+    "id": 12275,
+    "name": "Bandos crozier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12275.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 25000
+  },
+  {
+    "id": 12277,
+    "name": "Mithril platebody (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12277.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 24500
+  },
+  {
+    "id": 12279,
+    "name": "Mithril platelegs (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12279.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2357
+  },
+  {
+    "id": 12281,
+    "name": "Mithril kiteshield (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12281.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 4677
+  },
+  {
+    "id": 12283,
+    "name": "Mithril full helm (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12283.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 9994
+  },
+  {
+    "id": 12285,
+    "name": "Mithril plateskirt (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12285.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2027
+  },
+  {
+    "id": 12287,
+    "name": "Mithril platebody (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12287.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2726
+  },
+  {
+    "id": 12289,
+    "name": "Mithril platelegs (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12289.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2699
+  },
+  {
+    "id": 12291,
+    "name": "Mithril kiteshield (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12291.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 3597
+  },
+  {
+    "id": 12293,
+    "name": "Mithril full helm (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12293.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 4334
+  },
+  {
+    "id": 12295,
+    "name": "Mithril plateskirt (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12295.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1167
+  },
+  {
+    "id": 12297,
+    "name": "Black pickaxe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12297.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 6000
+  },
+  {
+    "id": 12299,
+    "name": "White headband",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12299.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 3333
+  },
+  {
+    "id": 12301,
+    "name": "Blue headband",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12301.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1413
+  },
+  {
+    "id": 12303,
+    "name": "Gold headband",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12303.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 500
+  },
+  {
+    "id": 12305,
+    "name": "Pink headband",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12305.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 400
+  },
+  {
+    "id": 12307,
+    "name": "Green headband",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12307.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1881
+  },
+  {
+    "id": 12309,
+    "name": "Pink boater",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12309.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 17100
+  },
+  {
+    "id": 12311,
+    "name": "Purple boater",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12311.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 15000
+  },
+  {
+    "id": 12313,
+    "name": "White boater",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12313.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 3030
+  },
+  {
+    "id": 12315,
+    "name": "Pink elegant shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12315.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2485
+  },
+  {
+    "id": 12317,
+    "name": "Pink elegant legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12317.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2031
+  },
+  {
+    "id": 12319,
+    "name": "Crier hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12319.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 4121
+  },
+  {
+    "id": 12321,
+    "name": "White cavalier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12321.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 19968
+  },
+  {
+    "id": 12323,
+    "name": "Red cavalier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12323.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 85000
+  },
+  {
+    "id": 12325,
+    "name": "Navy cavalier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12325.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2815
+  },
+  {
+    "id": 12327,
+    "name": "Red d'hide body (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12327.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 6168
+  },
+  {
+    "id": 12329,
+    "name": "Red d'hide chaps (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12329.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 18222
+  },
+  {
+    "id": 12331,
+    "name": "Red d'hide body (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12331.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 6072
+  },
+  {
+    "id": 12333,
+    "name": "Red d'hide chaps (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12333.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 3384
+  },
+  {
+    "id": 12335,
+    "name": "Briefcase",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12335.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 247584
+  },
+  {
+    "id": 12337,
+    "name": "Sagacious spectacles",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12337.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 725000
+  },
+  {
+    "id": 12339,
+    "name": "Pink elegant blouse",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12339.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 14215
+  },
+  {
+    "id": 12341,
+    "name": "Pink elegant skirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12341.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 8906
+  },
+  {
+    "id": 12343,
+    "name": "Gold elegant blouse",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12343.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 4000
+  },
+  {
+    "id": 12345,
+    "name": "Gold elegant skirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12345.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 30000
+  },
+  {
+    "id": 12347,
+    "name": "Gold elegant shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12347.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 3360
+  },
+  {
+    "id": 12349,
+    "name": "Gold elegant legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12349.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1776
+  },
+  {
+    "id": 12351,
+    "name": "Musketeer hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12351.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 105264
+  },
+  {
+    "id": 12353,
+    "name": "Monocle",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12353.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 158000
+  },
+  {
+    "id": 12355,
+    "name": "Big pirate hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12355.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 742771
+  },
+  {
+    "id": 12357,
+    "name": "Katana",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12357.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 100000
+  },
+  {
+    "id": 12359,
+    "name": "Leprechaun hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12359.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 5166
+  },
+  {
+    "id": 12361,
+    "name": "Cat mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12361.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 7999
+  },
+  {
+    "id": 12363,
+    "name": "Bronze dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12363.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 6127
+  },
+  {
+    "id": 12365,
+    "name": "Iron dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12365.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 4000
+  },
+  {
+    "id": 12367,
+    "name": "Steel dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12367.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 100000
+  },
+  {
+    "id": 12369,
+    "name": "Mithril dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12369.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 5599
+  },
+  {
+    "id": 12371,
+    "name": "Lava dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12371.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 882506
+  },
+  {
+    "id": 12373,
+    "name": "Dragon cane",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12373.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 25390
+  },
+  {
+    "id": 12375,
+    "name": "Black cane",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12375.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2607
+  },
+  {
+    "id": 12377,
+    "name": "Adamant cane",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12377.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1052
+  },
+  {
+    "id": 12379,
+    "name": "Rune cane",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12379.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 17693
+  },
+  {
+    "id": 12381,
+    "name": "Black d'hide body (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12381.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 75795
+  },
+  {
+    "id": 12383,
+    "name": "Black d'hide chaps (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12383.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 210600
+  },
+  {
+    "id": 12385,
+    "name": "Black d'hide body (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12385.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 39989
+  },
+  {
+    "id": 12387,
+    "name": "Black d'hide chaps (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12387.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 27257
+  },
+  {
+    "id": 12389,
+    "name": "Gilded scimitar",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12389.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 16193193
+  },
+  {
+    "id": 12391,
+    "name": "Gilded boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12391.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2185420
+  },
+  {
+    "id": 12393,
+    "name": "Royal gown top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12393.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 37620
+  },
+  {
+    "id": 12395,
+    "name": "Royal gown bottom",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12395.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 5000
+  },
+  {
+    "id": 12397,
+    "name": "Royal crown",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12397.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 69181
+  },
+  {
+    "id": 12422,
+    "name": "3rd age wand",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12422.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 530000000
+  },
+  {
+    "id": 12424,
+    "name": "3rd age bow",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12424.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1547442874
+  },
+  {
+    "id": 12426,
+    "name": "3rd age longsword",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12426.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 1644999999
+  },
+  {
+    "id": 12428,
+    "name": "Penguin mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12428.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 12717
+  },
+  {
+    "id": 12430,
+    "name": "Afro",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12430.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 46997
+  },
+  {
+    "id": 12432,
+    "name": "Top hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12432.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 83729
+  },
+  {
+    "id": 12437,
+    "name": "3rd age cloak",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12437.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 475000000
+  },
+  {
+    "id": 12439,
+    "name": "Royal sceptre",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12439.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 27880
+  },
+  {
+    "id": 12441,
+    "name": "Musketeer tabard",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12441.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 80637
+  },
+  {
+    "id": 12443,
+    "name": "Musketeer pants",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12443.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 19000
+  },
+  {
+    "id": 12445,
+    "name": "Black skirt (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12445.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 99985
+  },
+  {
+    "id": 12447,
+    "name": "Black skirt (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12447.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 99000
+  },
+  {
+    "id": 12449,
+    "name": "Black wizard robe (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12449.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 269442
+  },
+  {
+    "id": 12451,
+    "name": "Black wizard robe (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12451.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 231236
+  },
+  {
+    "id": 12453,
+    "name": "Black wizard hat (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12453.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 372233
+  },
+  {
+    "id": 12455,
+    "name": "Black wizard hat (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12455.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 200000
+  },
+  {
+    "id": 12460,
+    "name": "Ancient platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12460.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 46726
+  },
+  {
+    "id": 12462,
+    "name": "Ancient platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12462.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 195000
+  },
+  {
+    "id": 12464,
+    "name": "Ancient plateskirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12464.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 59899
+  },
+  {
+    "id": 12466,
+    "name": "Ancient full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12466.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 74250
+  },
+  {
+    "id": 12468,
+    "name": "Ancient kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12468.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 53538
+  },
+  {
+    "id": 12470,
+    "name": "Armadyl platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12470.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 44922
+  },
+  {
+    "id": 12472,
+    "name": "Armadyl platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12472.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 192000
+  },
+  {
+    "id": 12474,
+    "name": "Armadyl plateskirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12474.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 38531
+  },
+  {
+    "id": 12476,
+    "name": "Armadyl full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12476.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 41811
+  },
+  {
+    "id": 12478,
+    "name": "Armadyl kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12478.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 51364
+  },
+  {
+    "id": 12480,
+    "name": "Bandos platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12480.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 136045
+  },
+  {
+    "id": 12482,
+    "name": "Bandos platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12482.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 40948
+  },
+  {
+    "id": 12484,
+    "name": "Bandos plateskirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12484.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 40560
+  },
+  {
+    "id": 12486,
+    "name": "Bandos full helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12486.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 54099
+  },
+  {
+    "id": 12488,
+    "name": "Bandos kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12488.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 60587
+  },
+  {
+    "id": 12490,
+    "name": "Ancient bracers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12490.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 22765
+  },
+  {
+    "id": 12492,
+    "name": "Ancient d'hide body",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12492.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 127999
+  },
+  {
+    "id": 12494,
+    "name": "Ancient chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12494.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 210000
+  },
+  {
+    "id": 12496,
+    "name": "Ancient coif",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12496.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 129140
+  },
+  {
+    "id": 12498,
+    "name": "Bandos bracers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12498.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 69470
+  },
+  {
+    "id": 12500,
+    "name": "Bandos d'hide body",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12500.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 117067
+  },
+  {
+    "id": 12502,
+    "name": "Bandos chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12502.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 225192
+  },
+  {
+    "id": 12504,
+    "name": "Bandos coif",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12504.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 111789
+  },
+  {
+    "id": 12506,
+    "name": "Armadyl bracers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12506.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 49072
+  },
+  {
+    "id": 12508,
+    "name": "Armadyl d'hide body",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12508.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 162333
+  },
+  {
+    "id": 12510,
+    "name": "Armadyl chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12510.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 208583
+  },
+  {
+    "id": 12512,
+    "name": "Armadyl coif",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12512.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 117999
+  },
+  {
+    "id": 12514,
+    "name": "Explorer backpack",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12514.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 10000
+  },
+  {
+    "id": 12516,
+    "name": "Pith helmet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12516.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 8710
+  },
+  {
+    "id": 12518,
+    "name": "Green dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12518.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 6020
+  },
+  {
+    "id": 12520,
+    "name": "Blue dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12520.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 6000
+  },
+  {
+    "id": 12522,
+    "name": "Red dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12522.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 10000
+  },
+  {
+    "id": 12524,
+    "name": "Black dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12524.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 28053
+  },
+  {
+    "id": 12526,
+    "name": "Fury ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12526.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 433993
+  },
+  {
+    "id": 12528,
+    "name": "Dark infinity colour kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12528.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 16343
+  },
+  {
+    "id": 12530,
+    "name": "Light infinity colour kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12530.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 15000
+  },
+  {
+    "id": 12534,
+    "name": "Dragon chainbody ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12534.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 3216
+  },
+  {
+    "id": 12536,
+    "name": "Dragon legs/skirt ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12536.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 2000
+  },
+  {
+    "id": 12538,
+    "name": "Dragon full helm ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12538.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 14959
+  },
+  {
+    "id": 12540,
+    "name": "Deerstalker",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12540.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": 30000
+  },
+  {
+    "id": 12596,
+    "name": "Rangers' tunic",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12596.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-26",
+    "ge_price": 3256202
+  },
+  {
+    "id": 12598,
+    "name": "Holy sandals",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12598.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-26",
+    "ge_price": 630000
+  },
+  {
+    "id": 12601,
+    "name": "Ring of the gods",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12601.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-26",
+    "ge_price": 527975
+  },
+  {
+    "id": 12613,
+    "name": "Bandos page 1",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12613.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 8000
+  },
+  {
+    "id": 12614,
+    "name": "Bandos page 2",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12614.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 2215
+  },
+  {
+    "id": 12615,
+    "name": "Bandos page 3",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12615.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 1607
+  },
+  {
+    "id": 12616,
+    "name": "Bandos page 4",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12616.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 5500
+  },
+  {
+    "id": 12617,
+    "name": "Armadyl page 1",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12617.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 3894
+  },
+  {
+    "id": 12618,
+    "name": "Armadyl page 2",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12618.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 9999
+  },
+  {
+    "id": 12619,
+    "name": "Armadyl page 3",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12619.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 20000
+  },
+  {
+    "id": 12620,
+    "name": "Armadyl page 4",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12620.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 4397
+  },
+  {
+    "id": 12621,
+    "name": "Ancient page 1",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12621.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 2896
+  },
+  {
+    "id": 12622,
+    "name": "Ancient page 2",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12622.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 2701
+  },
+  {
+    "id": 12623,
+    "name": "Ancient page 3",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12623.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 2651
+  },
+  {
+    "id": 12624,
+    "name": "Ancient page 4",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12624.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-07-03",
+    "ge_price": 2765
+  },
+  {
+    "id": 12817,
+    "name": "Elysian spirit shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12817.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-10-16",
+    "ge_price": 504131258
+  },
+  {
+    "id": 12821,
+    "name": "Spectral spirit shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12821.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-10-16",
+    "ge_price": 21460695
+  },
+  {
+    "id": 12825,
+    "name": "Arcane spirit shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/12825.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-10-16",
+    "ge_price": 94947007
+  },
+  {
+    "id": 13235,
+    "name": "Eternal boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/13235.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2015-08-27",
+    "ge_price": 5341086
+  },
+  {
+    "id": 13237,
+    "name": "Pegasian boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/13237.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2015-08-27",
+    "ge_price": 38587943
+  },
+  {
+    "id": 13239,
+    "name": "Primordial boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/13239.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2015-08-27",
+    "ge_price": 24166756
+  },
+  {
+    "id": 13576,
+    "name": "Dragon warhammer",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/13576.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-01-21",
+    "ge_price": 11797126
+  },
+  {
+    "id": 16001,
+    "name": "Dragon sq shield ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/16001.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2014-06-12",
+    "ge_price": null
+  },
+  {
+    "id": 19544,
+    "name": "Tormented bracelet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19544.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-05-06",
+    "ge_price": 20000000
+  },
+  {
+    "id": 19547,
+    "name": "Necklace of anguish",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19547.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-05-06",
+    "ge_price": 20500000
+  },
+  {
+    "id": 19550,
+    "name": "Ring of suffering",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19550.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-05-06",
+    "ge_price": 20085555
+  },
+  {
+    "id": 19553,
+    "name": "Amulet of torture",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19553.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-05-06",
+    "ge_price": 19899815
+  },
+  {
+    "id": 19724,
+    "name": "Left eye patch",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19724.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1
+  },
+  {
+    "id": 19915,
+    "name": "Cyclops head",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19915.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 49990
+  },
+  {
+    "id": 19918,
+    "name": "Nunchaku",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19918.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 7065
+  },
+  {
+    "id": 19921,
+    "name": "Ancient d'hide boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19921.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 499706
+  },
+  {
+    "id": 19924,
+    "name": "Bandos d'hide boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19924.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 483298
+  },
+  {
+    "id": 19927,
+    "name": "Guthix d'hide boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19927.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 414404
+  },
+  {
+    "id": 19930,
+    "name": "Armadyl d'hide boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19930.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 696995
+  },
+  {
+    "id": 19933,
+    "name": "Saradomin d'hide boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19933.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 555035
+  },
+  {
+    "id": 19936,
+    "name": "Zamorak d'hide boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19936.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 680193
+  },
+  {
+    "id": 19943,
+    "name": "Arceuus scarf",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19943.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 13058
+  },
+  {
+    "id": 19946,
+    "name": "Hosidius scarf",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19946.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 6410
+  },
+  {
+    "id": 19949,
+    "name": "Lovakengj scarf",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19949.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 11497
+  },
+  {
+    "id": 19952,
+    "name": "Piscarilius scarf",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19952.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 5333
+  },
+  {
+    "id": 19955,
+    "name": "Shayzien scarf",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19955.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 14988
+  },
+  {
+    "id": 19958,
+    "name": "Dark tuxedo jacket",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19958.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2106063
+  },
+  {
+    "id": 19961,
+    "name": "Dark tuxedo cuffs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19961.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 403807
+  },
+  {
+    "id": 19964,
+    "name": "Dark trousers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19964.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1270308
+  },
+  {
+    "id": 19967,
+    "name": "Dark tuxedo shoes",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19967.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 942617
+  },
+  {
+    "id": 19970,
+    "name": "Dark bow tie",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19970.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 581663
+  },
+  {
+    "id": 19973,
+    "name": "Light tuxedo jacket",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19973.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2100000
+  },
+  {
+    "id": 19976,
+    "name": "Light tuxedo cuffs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19976.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 390000
+  },
+  {
+    "id": 19979,
+    "name": "Light trousers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19979.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 585005
+  },
+  {
+    "id": 19982,
+    "name": "Light tuxedo shoes",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19982.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 750000
+  },
+  {
+    "id": 19985,
+    "name": "Light bow tie",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19985.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 135465
+  },
+  {
+    "id": 19988,
+    "name": "Blacksmith's helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19988.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 25347
+  },
+  {
+    "id": 19991,
+    "name": "Bucket helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19991.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 44964
+  },
+  {
+    "id": 19994,
+    "name": "Ranger gloves",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19994.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 825000
+  },
+  {
+    "id": 19997,
+    "name": "Holy wraps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/19997.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1592246
+  },
+  {
+    "id": 20002,
+    "name": "Dragon scimitar ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20002.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 267035
+  },
+  {
+    "id": 20005,
+    "name": "Ring of nature",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20005.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 8163000
+  },
+  {
+    "id": 20008,
+    "name": "Fancy tiara",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20008.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 6833
+  },
+  {
+    "id": 20011,
+    "name": "3rd age axe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20011.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 500000000
+  },
+  {
+    "id": 20014,
+    "name": "3rd age pickaxe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20014.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2147483647
+  },
+  {
+    "id": 20017,
+    "name": "Ring of coins",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20017.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 15898599
+  },
+  {
+    "id": 20020,
+    "name": "Lesser demon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20020.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 3414
+  },
+  {
+    "id": 20023,
+    "name": "Greater demon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20023.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 9263
+  },
+  {
+    "id": 20026,
+    "name": "Black demon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20026.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 99999
+  },
+  {
+    "id": 20029,
+    "name": "Old demon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20029.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 27420
+  },
+  {
+    "id": 20032,
+    "name": "Jungle demon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20032.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 22557
+  },
+  {
+    "id": 20035,
+    "name": "Samurai kasa",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20035.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 50000
+  },
+  {
+    "id": 20038,
+    "name": "Samurai shirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20038.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 34301
+  },
+  {
+    "id": 20041,
+    "name": "Samurai gloves",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20041.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 119999
+  },
+  {
+    "id": 20044,
+    "name": "Samurai greaves",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20044.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 50000
+  },
+  {
+    "id": 20047,
+    "name": "Samurai boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20047.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 20000
+  },
+  {
+    "id": 20050,
+    "name": "Obsidian cape (r)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20050.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 872118
+  },
+  {
+    "id": 20053,
+    "name": "Half moon spectacles",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20053.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 47900
+  },
+  {
+    "id": 20056,
+    "name": "Ale of the gods",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20056.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 339110
+  },
+  {
+    "id": 20059,
+    "name": "Bucket helm (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20059.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 4552914
+  },
+  {
+    "id": 20062,
+    "name": "Torture ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20062.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 79716
+  },
+  {
+    "id": 20065,
+    "name": "Occult ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20065.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 4188734
+  },
+  {
+    "id": 20068,
+    "name": "Armadyl godsword ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20068.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 55093
+  },
+  {
+    "id": 20071,
+    "name": "Bandos godsword ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20071.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 3590302
+  },
+  {
+    "id": 20074,
+    "name": "Saradomin godsword ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20074.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 5796893
+  },
+  {
+    "id": 20077,
+    "name": "Zamorak godsword ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20077.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 288888
+  },
+  {
+    "id": 20080,
+    "name": "Mummy's head",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20080.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1242880
+  },
+  {
+    "id": 20083,
+    "name": "Mummy's body",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20083.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1925173
+  },
+  {
+    "id": 20086,
+    "name": "Mummy's hands",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20086.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 307502
+  },
+  {
+    "id": 20089,
+    "name": "Mummy's legs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20089.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1247615
+  },
+  {
+    "id": 20092,
+    "name": "Mummy's feet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20092.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 295128
+  },
+  {
+    "id": 20095,
+    "name": "Ankou mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20095.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 10585853
+  },
+  {
+    "id": 20098,
+    "name": "Ankou top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20098.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 21960541
+  },
+  {
+    "id": 20101,
+    "name": "Ankou gloves",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20101.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2998785
+  },
+  {
+    "id": 20104,
+    "name": "Ankou's leggings",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20104.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 9168994
+  },
+  {
+    "id": 20107,
+    "name": "Ankou socks",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20107.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 3380000
+  },
+  {
+    "id": 20110,
+    "name": "Bowl wig",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20110.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 12250
+  },
+  {
+    "id": 20113,
+    "name": "Arceuus hood",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20113.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2549
+  },
+  {
+    "id": 20116,
+    "name": "Hosidius hood",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20116.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2833
+  },
+  {
+    "id": 20119,
+    "name": "Lovakengj hood",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20119.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1604
+  },
+  {
+    "id": 20122,
+    "name": "Piscarilius hood",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20122.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2965
+  },
+  {
+    "id": 20125,
+    "name": "Shayzien hood",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20125.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 9999
+  },
+  {
+    "id": 20128,
+    "name": "Hood of darkness",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20128.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 17841
+  },
+  {
+    "id": 20131,
+    "name": "Robe top of darkness",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20131.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 55566
+  },
+  {
+    "id": 20134,
+    "name": "Gloves of darkness",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20134.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 88887
+  },
+  {
+    "id": 20137,
+    "name": "Robe bottom of darkness",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20137.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 61938
+  },
+  {
+    "id": 20140,
+    "name": "Boots of darkness",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20140.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 10000
+  },
+  {
+    "id": 20143,
+    "name": "Dragon defender ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20143.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 31833
+  },
+  {
+    "id": 20146,
+    "name": "Gilded med helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20146.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1530000
+  },
+  {
+    "id": 20149,
+    "name": "Gilded chainbody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20149.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2131345
+  },
+  {
+    "id": 20152,
+    "name": "Gilded sq shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20152.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1600000
+  },
+  {
+    "id": 20155,
+    "name": "Gilded 2h sword",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20155.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 5378786
+  },
+  {
+    "id": 20158,
+    "name": "Gilded spear",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20158.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2015795
+  },
+  {
+    "id": 20161,
+    "name": "Gilded hasta",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20161.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 602839
+  },
+  {
+    "id": 20166,
+    "name": "Wooden shield (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20166.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 144827
+  },
+  {
+    "id": 20169,
+    "name": "Steel platebody (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20169.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 5664
+  },
+  {
+    "id": 20172,
+    "name": "Steel platelegs (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20172.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 3598
+  },
+  {
+    "id": 20175,
+    "name": "Steel plateskirt (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20175.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 23643
+  },
+  {
+    "id": 20178,
+    "name": "Steel full helm (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20178.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 17998
+  },
+  {
+    "id": 20181,
+    "name": "Steel kiteshield (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20181.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 8157
+  },
+  {
+    "id": 20184,
+    "name": "Steel platebody (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20184.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 15000
+  },
+  {
+    "id": 20187,
+    "name": "Steel platelegs (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20187.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 3113
+  },
+  {
+    "id": 20190,
+    "name": "Steel plateskirt (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20190.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 2546
+  },
+  {
+    "id": 20193,
+    "name": "Steel full helm (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20193.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 3044
+  },
+  {
+    "id": 20196,
+    "name": "Steel kiteshield (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20196.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 5364
+  },
+  {
+    "id": 20199,
+    "name": "Monk's robe top (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20199.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 3452699
+  },
+  {
+    "id": 20202,
+    "name": "Monk's robe (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20202.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1215089
+  },
+  {
+    "id": 20205,
+    "name": "Golden chef's hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20205.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 323908
+  },
+  {
+    "id": 20208,
+    "name": "Golden apron",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20208.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 200000
+  },
+  {
+    "id": 20211,
+    "name": "Team cape zero",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20211.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 3154080
+  },
+  {
+    "id": 20214,
+    "name": "Team cape x",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20214.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1398627
+  },
+  {
+    "id": 20217,
+    "name": "Team cape i",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20217.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1560136
+  },
+  {
+    "id": 20220,
+    "name": "Holy blessing",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20220.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 36988
+  },
+  {
+    "id": 20223,
+    "name": "Unholy blessing",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20223.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 28998
+  },
+  {
+    "id": 20226,
+    "name": "Peaceful blessing",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20226.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 50
+  },
+  {
+    "id": 20229,
+    "name": "Honourable blessing",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20229.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 5898
+  },
+  {
+    "id": 20232,
+    "name": "War blessing",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20232.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 13538
+  },
+  {
+    "id": 20235,
+    "name": "Ancient blessing",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20235.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 6921
+  },
+  {
+    "id": 20240,
+    "name": "Crier coat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20240.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 7991
+  },
+  {
+    "id": 20243,
+    "name": "Crier bell",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20243.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 4000
+  },
+  {
+    "id": 20246,
+    "name": "Black leprechaun hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20246.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 9874
+  },
+  {
+    "id": 20251,
+    "name": "Arceuus banner",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20251.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1260
+  },
+  {
+    "id": 20254,
+    "name": "Hosidius banner",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20254.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1089
+  },
+  {
+    "id": 20257,
+    "name": "Lovakengj banner",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20257.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 1564
+  },
+  {
+    "id": 20260,
+    "name": "Piscarilius banner",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20260.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 6666
+  },
+  {
+    "id": 20263,
+    "name": "Shayzien banner",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20263.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 900
+  },
+  {
+    "id": 20266,
+    "name": "Black unicorn mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20266.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 33000
+  },
+  {
+    "id": 20269,
+    "name": "White unicorn mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20269.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 14899
+  },
+  {
+    "id": 20272,
+    "name": "Cabbage round shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20272.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 6884
+  },
+  {
+    "id": 20275,
+    "name": "Gnomish firelighter",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20275.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-07-06",
+    "ge_price": 14000
+  },
+  {
+    "id": 20397,
+    "name": "Spear",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20397.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-08-04",
+    "ge_price": null
+  },
+  {
+    "id": 20418,
+    "name": "Blue d'hide chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20418.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": null
+  },
+  {
+    "id": 20567,
+    "name": "Red d'hide chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20567.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-03-29",
+    "ge_price": null
+  },
+  {
+    "id": 20572,
+    "name": "Archer helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20572.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-02",
+    "ge_price": null
+  },
+  {
+    "id": 20573,
+    "name": "Farseer helm",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20573.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2004-11-02",
+    "ge_price": null
+  },
+  {
+    "id": 20579,
+    "name": "Mystic boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20579.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2005-01-26",
+    "ge_price": null
+  },
+  {
+    "id": 20727,
+    "name": "Leaf-bladed battleaxe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/20727.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2016-09-15",
+    "ge_price": 77936
+  },
+  {
+    "id": 21000,
+    "name": "Twisted buckler",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21000.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-01-05",
+    "ge_price": 17036186
+  },
+  {
+    "id": 21006,
+    "name": "Kodai wand",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21006.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-01-05",
+    "ge_price": 78494680
+  },
+  {
+    "id": 21018,
+    "name": "Ancestral hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21018.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-01-05",
+    "ge_price": 73686381
+  },
+  {
+    "id": 21021,
+    "name": "Ancestral robe top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21021.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-01-05",
+    "ge_price": 140000000
+  },
+  {
+    "id": 21024,
+    "name": "Ancestral robe bottom",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21024.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-01-05",
+    "ge_price": 105699303
+  },
+  {
+    "id": 21206,
+    "name": "Dragon sword",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21206.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-01-05",
+    "ge_price": null
+  },
+  {
+    "id": 21207,
+    "name": "Dragon thrownaxe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21207.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-01-05",
+    "ge_price": null
+  },
+  {
+    "id": 21298,
+    "name": "Obsidian helmet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21298.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-06-01",
+    "ge_price": 630951
+  },
+  {
+    "id": 21301,
+    "name": "Obsidian platebody",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21301.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-06-01",
+    "ge_price": 1002611
+  },
+  {
+    "id": 21304,
+    "name": "Obsidian platelegs",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21304.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-06-01",
+    "ge_price": 840280
+  },
+  {
+    "id": 21387,
+    "name": "Master scroll book (empty)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21387.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-07-13",
+    "ge_price": 50000
+  },
+  {
+    "id": 21733,
+    "name": "Guardian boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21733.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-10-26",
+    "ge_price": 3039155
+  },
+  {
+    "id": 21736,
+    "name": "Granite gloves",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21736.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-10-26",
+    "ge_price": 100000
+  },
+  {
+    "id": 21739,
+    "name": "Granite ring",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21739.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-10-26",
+    "ge_price": 35000
+  },
+  {
+    "id": 21838,
+    "name": "Shaman mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21838.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2017-12-07",
+    "ge_price": 12403
+  },
+  {
+    "id": 21895,
+    "name": "Dragon kiteshield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21895.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2018-01-04",
+    "ge_price": 82888000
+  },
+  {
+    "id": 21905,
+    "name": "Dragon bolts",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/21905.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2018-01-04",
+    "ge_price": 3214
+  },
+  {
+    "id": 22111,
+    "name": "Dragonbone necklace",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/22111.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2018-01-04",
+    "ge_price": 115000
+  },
+  {
+    "id": 22324,
+    "name": "Ghrazi rapier",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/22324.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2018-06-07",
+    "ge_price": 32886639
+  },
+  {
+    "id": 22326,
+    "name": "Justiciar faceguard",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/22326.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2018-06-07",
+    "ge_price": 13507249
+  },
+  {
+    "id": 22327,
+    "name": "Justiciar chestguard",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/22327.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2018-06-07",
+    "ge_price": 11812529
+  },
+  {
+    "id": 22328,
+    "name": "Justiciar legguards",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/22328.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2018-06-07",
+    "ge_price": 8300000
+  },
+  {
+    "id": 22951,
+    "name": "Boots of brimstone",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/22951.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-01-10",
+    "ge_price": 396342
+  },
+  {
+    "id": 22954,
+    "name": "Devout boots",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/22954.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-01-10",
+    "ge_price": 749457
+  },
+  {
+    "id": 22975,
+    "name": "Brimstone ring",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/22975.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-01-10",
+    "ge_price": 5125914
+  },
+  {
+    "id": 23185,
+    "name": "Ring of 3rd age",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23185.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 2275044
+  },
+  {
+    "id": 23188,
+    "name": "Guthix d'hide shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23188.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 619995
+  },
+  {
+    "id": 23191,
+    "name": "Saradomin d'hide shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23191.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 708000
+  },
+  {
+    "id": 23194,
+    "name": "Zamorak d'hide shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23194.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 785366
+  },
+  {
+    "id": 23197,
+    "name": "Ancient d'hide shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23197.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 537107
+  },
+  {
+    "id": 23200,
+    "name": "Armadyl d'hide shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23200.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 997995
+  },
+  {
+    "id": 23203,
+    "name": "Bandos d'hide shield",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23203.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 539999
+  },
+  {
+    "id": 23206,
+    "name": "Dual sai",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23206.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 3371
+  },
+  {
+    "id": 23209,
+    "name": "Rune platebody (h1)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23209.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 42232
+  },
+  {
+    "id": 23212,
+    "name": "Rune platebody (h2)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23212.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 60430
+  },
+  {
+    "id": 23215,
+    "name": "Rune platebody (h3)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23215.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 39021
+  },
+  {
+    "id": 23218,
+    "name": "Rune platebody (h4)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23218.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 44999
+  },
+  {
+    "id": 23221,
+    "name": "Rune platebody (h5)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23221.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 510000
+  },
+  {
+    "id": 23224,
+    "name": "Thieving bag",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23224.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 10794
+  },
+  {
+    "id": 23227,
+    "name": "Rune defender ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23227.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 43000
+  },
+  {
+    "id": 23232,
+    "name": "Tzhaar-ket-om ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23232.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 95000
+  },
+  {
+    "id": 23237,
+    "name": "Berserker necklace ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23237.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 6062
+  },
+  {
+    "id": 23242,
+    "name": "3rd age plateskirt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23242.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 64413082
+  },
+  {
+    "id": 23246,
+    "name": "Fremennik kilt",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23246.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 3889042
+  },
+  {
+    "id": 23249,
+    "name": "Rangers' tights",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23249.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 1200000
+  },
+  {
+    "id": 23255,
+    "name": "Uri's hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23255.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 6084
+  },
+  {
+    "id": 23258,
+    "name": "Gilded coif",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23258.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 479525
+  },
+  {
+    "id": 23261,
+    "name": "Gilded d'hide vambraces",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23261.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 5330000
+  },
+  {
+    "id": 23264,
+    "name": "Gilded d'hide body",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23264.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 2457097
+  },
+  {
+    "id": 23267,
+    "name": "Gilded d'hide chaps",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23267.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 7080000
+  },
+  {
+    "id": 23270,
+    "name": "Adamant dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23270.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 5688
+  },
+  {
+    "id": 23273,
+    "name": "Rune dragon mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23273.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 30000
+  },
+  {
+    "id": 23276,
+    "name": "Gilded pickaxe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23276.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 3800000
+  },
+  {
+    "id": 23279,
+    "name": "Gilded axe",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23279.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 5442000
+  },
+  {
+    "id": 23282,
+    "name": "Gilded spade",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23282.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 3295000
+  },
+  {
+    "id": 23285,
+    "name": "Mole slippers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23285.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 273518
+  },
+  {
+    "id": 23288,
+    "name": "Frog slippers",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23288.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 75000
+  },
+  {
+    "id": 23291,
+    "name": "Bear feet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23291.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 49987
+  },
+  {
+    "id": 23294,
+    "name": "Demon feet",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23294.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 42487
+  },
+  {
+    "id": 23297,
+    "name": "Jester cape",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23297.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 40000
+  },
+  {
+    "id": 23300,
+    "name": "Shoulder parrot",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23300.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 173410
+  },
+  {
+    "id": 23303,
+    "name": "Monk's robe top (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23303.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 22436
+  },
+  {
+    "id": 23306,
+    "name": "Monk's robe (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23306.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 7116
+  },
+  {
+    "id": 23309,
+    "name": "Amulet of defence (t)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23309.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 3011
+  },
+  {
+    "id": 23312,
+    "name": "Sandwich lady hat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23312.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 20000
+  },
+  {
+    "id": 23315,
+    "name": "Sandwich lady top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23315.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 8891
+  },
+  {
+    "id": 23318,
+    "name": "Sandwich lady bottom",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23318.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 1482
+  },
+  {
+    "id": 23321,
+    "name": "Rune scimitar ornament kit (guthix)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23321.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 4843
+  },
+  {
+    "id": 23324,
+    "name": "Rune scimitar ornament kit (saradomin)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23324.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 9995
+  },
+  {
+    "id": 23327,
+    "name": "Rune scimitar ornament kit (zamorak)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23327.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 20601
+  },
+  {
+    "id": 23336,
+    "name": "3rd age druidic robe top",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23336.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 2147483647
+  },
+  {
+    "id": 23339,
+    "name": "3rd age druidic robe bottoms",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23339.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 2134999999
+  },
+  {
+    "id": 23342,
+    "name": "3rd age druidic staff",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23342.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 720000000
+  },
+  {
+    "id": 23345,
+    "name": "3rd age druidic cloak",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23345.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 1289276209
+  },
+  {
+    "id": 23348,
+    "name": "Tormented ornament kit",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23348.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 55485
+  },
+  {
+    "id": 23351,
+    "name": "Cape of skulls",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23351.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 7078459
+  },
+  {
+    "id": 23357,
+    "name": "Rain bow",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23357.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 88312
+  },
+  {
+    "id": 23360,
+    "name": "Ham joint",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23360.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 1000000
+  },
+  {
+    "id": 23363,
+    "name": "Staff of bob the cat",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23363.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 85424
+  },
+  {
+    "id": 23366,
+    "name": "Black platebody (h1)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23366.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 2499
+  },
+  {
+    "id": 23369,
+    "name": "Black platebody (h2)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23369.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 2110
+  },
+  {
+    "id": 23372,
+    "name": "Black platebody (h3)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23372.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 149994
+  },
+  {
+    "id": 23375,
+    "name": "Black platebody (h4)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23375.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 2685
+  },
+  {
+    "id": 23378,
+    "name": "Black platebody (h5)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23378.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 2206
+  },
+  {
+    "id": 23381,
+    "name": "Leather body (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23381.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 66165
+  },
+  {
+    "id": 23384,
+    "name": "Leather chaps (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23384.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 10127
+  },
+  {
+    "id": 23389,
+    "name": "Spiked manacles",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23389.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 758790
+  },
+  {
+    "id": 23392,
+    "name": "Adamant platebody (h1)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23392.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 9835
+  },
+  {
+    "id": 23395,
+    "name": "Adamant platebody (h2)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23395.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 9706
+  },
+  {
+    "id": 23398,
+    "name": "Adamant platebody (h3)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23398.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 9467
+  },
+  {
+    "id": 23401,
+    "name": "Adamant platebody (h4)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23401.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 9431
+  },
+  {
+    "id": 23404,
+    "name": "Adamant platebody (h5)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23404.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 9238
+  },
+  {
+    "id": 23407,
+    "name": "Wolf mask",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23407.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 30604
+  },
+  {
+    "id": 23410,
+    "name": "Wolf cloak",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23410.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 29988
+  },
+  {
+    "id": 23413,
+    "name": "Climbing boots (g)",
+    "icon": "https://www.osrsbox.com/osrsbox-db/items-icons/23413.png",
+    "slot": "none",
+    "tradeable": true,
+    "release_date": "2019-04-11",
+    "ge_price": 42259
+  }
+]
